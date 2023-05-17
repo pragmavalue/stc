@@ -1,3 +1,3 @@
 # stc
-Shoots to cloud 
-A app to upload files to cloud disc drive (google)
+Shoots to cloud.
+An app to upload files to cloud disc drive (google)
